@@ -1,0 +1,26 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans Pro', Colibri, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+}
+.photo{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+.PHOTO{
+    float: right;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.sec-gauche{
+    float: left;
+}
+.sec-droite{
+    margin-left: 450px;
+}
+
